@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import { User, Briefcase, CheckCircle, XCircle, Clock, AlertCircle, Phone, Mail, MapPin } from 'lucide-react';
+import { Briefcase, Clock, MapPin } from 'lucide-react';
 
 const NAVY = '#1e3a5f';
 const BLUE = '#2563eb';
