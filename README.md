@@ -5,7 +5,7 @@ with React, designed to mirror the Recruitment module of
 CarePoint365 care management software.
 
 ## 🔗 Live Demo
-[View Recruitment Pipeline](https://your-vercel-link.vercel.app/)
+[View Recruitment Pipeline](https://care-point-recruitment-svtk.vercel.app/)
 
 ## Features
 - **Kanban board** — 6 stage pipeline from Applied to Hired
